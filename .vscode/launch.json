@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "nusantara_cerdas_nav_707012400012 (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "args": ["-d", "chrome"]
+    },
+    {
+      "name": "nusantara_cerdas_nav_707012400012 (Default)",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
